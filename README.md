@@ -1,0 +1,1 @@
+# design-and-simulate-8-bit-parity-generator-using-verilog
